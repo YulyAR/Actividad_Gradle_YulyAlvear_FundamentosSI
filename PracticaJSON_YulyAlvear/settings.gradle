@@ -1,0 +1,4 @@
+rootProject.name = 'PracticaJSON_YulyAlvear'
+include 'src'
+include 'main'
+
